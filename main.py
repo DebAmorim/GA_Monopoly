@@ -24,8 +24,8 @@ def main():
                     run = False     
             
             board.draw_board(WINDOW)
-            control.draw_panel(WINDOW)
-            ranking.draw_ranking(WINDOW)
+            # control.draw_panel(WINDOW)
+            # ranking.draw_ranking(WINDOW)
             pygame.display.update()
 
         pygame.quit()
