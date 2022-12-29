@@ -1,12 +1,12 @@
 import pygame
 
 #window
-WINDOW_WIDTH, WINDOW_HEIGHT = 1400, 1000
+WINDOW_WIDTH, WINDOW_HEIGHT = 800, 800
 DEFAULT_MARGIN = 25
 
 #board constants
 ROWS, COLS = 7, 7
-BOARD_SIZE = 750
+BOARD_SIZE = 650
 
 #control panel
 CONTROL_WIDTH = 300
